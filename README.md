@@ -13,7 +13,7 @@
 
 > An end-to-end machine learning platform for predicting 30-day hospital readmission risk and analyzing healthcare costs across the Medicare population — enabling clinicians and administrators to identify high-risk patients before readmission occurs.
 
-[📊 View Demo](#demo) · [🚀 Quick Start](#quick-start) · [📖 Documentation](#documentation) · [🤝 Contributing](#contributing)
+[📊 View Demo](#demo) · [🚀 Quick Start](https://v0-readmission-prediction-and-cost.vercel.app/) · [📖 Documentation](#documentation) · [🤝 Contributing](#contributing)
 
 ---
 
