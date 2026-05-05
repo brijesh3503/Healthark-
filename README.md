@@ -23,7 +23,7 @@
 
 | Overview Dashboard | Cost Analysis |
 |:-:|:-:|
-| ![Overview](docs/screenshot/overview.png) | ![Cost Analysis](docs/screenshots/cost-analysis.png) |
+| ![Overview](docs/screenshots/overview.png) | ![Cost Analysis](docs/screenshots/cost-analysis.png) |
 
 | Insights & Recommendations |
 |:-:|
